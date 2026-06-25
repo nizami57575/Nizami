@@ -1,0 +1,6 @@
+{
+  "name": "SimaFind",
+  "description": "Üz tanıma vasitəsilə sosial şəbəkələrdəki profillərin axtarışı və təsdiqlənməsi proqramı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
